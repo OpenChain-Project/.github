@@ -1,0 +1,12 @@
+// OpenChain Official Brand Palette
+$openchain-teal: #00ADBB;       // Pantone 7466 C (Bright Accent)
+$openchain-teal-dark: #008286;  // Pantone 7712 C (Primary Brand / Sidebar)
+$openchain-orange: #E15829;     // Pantone 7579 C (Action / Highlight)
+
+// Override Theme Core Variables
+$sidebar-color: $openchain-teal;
+$link-color: $openchain-teal-dark;
+$btn-primary-color: $openchain-orange;
+
+// Navigation and interactive states
+$nav-child-link-color: $openchain-teal-dark;
