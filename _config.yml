@@ -1,0 +1,33 @@
+title: OpenChain Work and Study Group Guidelines
+description: Core processes and policy guidelines for OpenChain Project Work and Study Groups.
+logo: "/assets/images/openchain-logo.svg"
+favicon_ico: "/assets/images/favicon.png"
+
+# Enable search bar branding
+search_enabled: true
+search:
+  placeholder: "Search OpenChain guidelines..."
+
+# Use "theme" instead of "remote_theme"
+theme: "just-the-docs"
+plugins:
+  - jekyll-seo-tag
+
+  # Tell Jekyll to look inside the /docs folder for your content
+sourcedir: docs
+include: [docs]
+
+# Just the Docs specific settings
+search_enabled: true
+heading_anchors: true
+
+# Auxiliary links (top right corner)
+aux_links:
+  "OpenChain Main Site": "https://www.openchainproject.org"
+  "GitHub Organization": "https://github.com/OpenChain-Project"
+
+defaults:
+  - scope:
+      path: "" # An empty string means ALL files in the project
+    values:
+      layout: "default"

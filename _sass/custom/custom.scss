@@ -1,0 +1,71 @@
+// Apply Josefin Sans globally
+body, h1, h2, h3, h4, h5, h6, .btn, .site-title, .nav-list {
+  font-family: "Josefin Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
+
+// Enhance main headings weight for geometric font readability
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+// Styled callout box matching OpenChain Orange
+.note {
+  border-left-color: #E15829 !important;
+}
+
+// Adjust search highlight to OpenChain Bright Teal
+.search-result-highlight {
+  background-color: rgba(0, 173, 187, 0.2);
+}
+// 1. Force the sidebar background to extend all the way to the top of the page
+.side-bar {
+  background-color: #008286 !important;
+  top: 0 !important;
+}
+
+// 2. Keep the logo header background transparent so it blends seamlessly
+.site-header {
+  background-color: transparent !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15) !important;
+}
+
+// 3. Navigation link colors and active/hover states
+.nav-list {
+  .nav-list-item {
+    .nav-list-link {
+      color: #ffffff !important;
+
+      &:hover {
+        color: #ffffff !important;
+        background-color: rgba(255, 255, 255, 0.12) !important;
+      }
+
+      &.active {
+        color: #ffffff !important;
+        font-weight: 700;
+        background-color: rgba(255, 255, 255, 0.22) !important;
+      }
+    }
+  }
+}
+
+// 4. Fix contrast for the theme footer text at the bottom-left
+.side-bar .site-footer {
+  color: rgba(255, 255, 255, 0.7) !important;
+
+  a {
+    color: #ffffff !important;
+    text-decoration: underline;
+  }
+}
+
+// Make the main content footer span full-width and align left
+.main .site-footer,
+.main-content .site-footer {
+  text-align: left !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  margin-top: 3rem !important;
+  padding-top: 1.5rem !important;
+  border-top: 1px solid #e9ecef !important; // Clean separator line above the footer
+}
