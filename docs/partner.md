@@ -4,6 +4,9 @@ title: Partner Program
 
 # Partner Program application, onboarding, and annual review process
 
+* TOC
+{:toc}
+
 This document outlines the process for applying to the OpenChain Partner program, along with onboarding and annual review for program participants.
 
 ## Application

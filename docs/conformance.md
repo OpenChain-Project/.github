@@ -5,6 +5,9 @@ title: Conformance Program
 
 # Community of Conformance Program application, onboarding, and annual review process
 
+* TOC
+{:toc}
+
 This document outlines the process for applying to the OpenChain Community of Conformance Program, along with onboarding and annual review for program participants.
 
 ## Application

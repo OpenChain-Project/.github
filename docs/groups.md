@@ -6,6 +6,9 @@ nav_order: 2
 
 # Group formation and processes
 
+* TOC
+{:toc}
+
 This document outlines the types of groups hosted at the OpenChain Project, along with the general processes for forming new groups, shutting down groups, and general governance practices/policies for groups.
 
 ## Group Types
