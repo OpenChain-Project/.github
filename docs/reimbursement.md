@@ -1,12 +1,9 @@
 ---
-layout: default
 title: Reimbursements
-nav_order: 2
+parent: Groups
 ---
 
-# **OpenChain Community Reimbursement Policy**
-
-*August 2026*
+# OpenChain Community Reimbursement Policy
 
 * TOC
 {:toc}

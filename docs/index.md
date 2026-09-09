@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Home
 nav_order: 1
 description: "Official governance hub, core processes, and policy guidelines for OpenChain Project Working Groups."
