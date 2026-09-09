@@ -35,7 +35,7 @@ OpenChain Staff will inform the Group Chairperson that the group is approved and
 - Slack channel ( hosted at <https://slack.openchainproject.org> )
 - Committee in LFX PCC
 - Meetings in LFX PCC ( which will appear on the [OpenChain Calendar](https://calendar.openchainproject.org) )
-- Provision a GitHub repository for the Group to collaborate on ( hosted under <https://github.com/OpenChain-Project> )
+- Provision a GitHub repository for the Group to collaborate on ( hosted under <https://github.com/OpenChain-Project> based on the template at <https://github.com/OpenChain-Project/wg-template> )
 - Setup a subdomain as a forward to that repo or wherever the group would like it to point to. ( i.e. [india-ug.openchainproject.org](http://india-ug.openchainproject.org) )
 
 ## Shutting down a Group
