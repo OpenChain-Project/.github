@@ -46,6 +46,10 @@ defaults:
     values:
       layout: "default"
 
+kramdown:
+  input: GFM
+  gfm_quirks: [paragraph_end]
+
 callouts:
   highlight:
     color: yellow
