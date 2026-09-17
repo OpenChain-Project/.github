@@ -37,6 +37,5 @@ OpenChain Groups developing assets for public consumption will often find it hel
 In some cases, assets from groups may make sense to either make a standards body aware of, or perhaps consider formal standardization. The Linux Foundation through the Joint Development Foundation (JDF) has staff and resources to guide these processes, and should be engaged any time such actions would be considered. Groups can contact <support@openchainproject.org> for assistance.
 
 > [!NOTE]
->
 > It is critical that if a group is wanting to approach a Standard Body ( such as IEEE or IEC ) that it contacts the JDF *before* making any contact ( which can be contacted through <support@openchainproject.org> ). JDF has numerous liasion agreements and relationships to guide these engagements.
 
