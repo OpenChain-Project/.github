@@ -17,5 +17,5 @@ Welcome to the central portal for OpenChain Project governance, working group op
 This documentation hub is hosted directly on GitHub and maintained by the OpenChain Governing Board and Staff.
 
 1. **Suggest Changes:** Submit an issue or pull request directly to the [.github repository](https://github.com/OpenChain-Project/.github).
-2. **Join Discussion:** Participate in our bi-weekly governance calls listed on the official [OpenChain Calendar]([https://www.openchainproject.org](https://openchainproject.org/participate)).
+2. **Join Discussion:** Participate in our bi-weekly governance calls listed on the official [OpenChain Calendar](https://openchainproject.org/participate).
 
