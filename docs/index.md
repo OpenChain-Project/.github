@@ -9,8 +9,8 @@ permalink: /
 
 Welcome to the central portal for OpenChain Project governance, working group operations, and compliance policies.
 
-{: .note }
-> All OpenChain groups operate under the antitrust, IP, and code of conduct policies established in the [OpenChain Project Charter](https://charter.openchainproject.org). 
+> [!NOTE]
+> All OpenChain groups operate under the antitrust, IP, and code of conduct policies established in the [OpenChain Project Charter](https://charter.openchainproject.org/).
 
 ## How to Contribute to Guidelines
 
@@ -18,4 +18,3 @@ This documentation hub is hosted directly on GitHub and maintained by the OpenCh
 
 1. **Suggest Changes:** Submit an issue or pull request directly to the [.github repository](https://github.com/OpenChain-Project/.github).
 2. **Join Discussion:** Participate in our bi-weekly governance calls listed on the official [OpenChain Calendar](https://www.openchainproject.org).
-
