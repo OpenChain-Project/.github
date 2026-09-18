@@ -71,4 +71,4 @@ The general template slides are here: [https://github.com/OpenChain-Project/Refe
 
 ### Chairperson Elections
 
-Chairperson election processes are defined [here]({% link doc/elections.md %}).
+Chairperson election processes are defined [here]({% link docs/elections.md %}).
