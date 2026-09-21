@@ -7,7 +7,6 @@ title: Partner Program
 * TOC
 {:toc}
 
-This document outlines the process for applying to the OpenChain Partner program, along with onboarding and annual review for program participants. Approval, rejection or requests for more information are usually provided within two weeks.
 
 ## Application
 
@@ -31,10 +30,7 @@ The signed agreement will be saved in the Partners folder, and the renewal date 
 
 ## Annual Review
 
-On an annual basis, the OpenChain Staff will review all partners who have been part of the Partner Program longer than one year, and ensure the company information is accurate and the company still wishes to be part of the Partner Program.
-
-OpenChain Staff will send out the annual review email ( email template at https://app.hubspot.com/templates/8112310/edit/130015097?page=1&folder=36927787 )  and partners will have 10 business days to respond. They will need to confirm whether or not they want to continue in the program and update their information if needed.
-
+From time to time, the OpenChain Staff will review entries to ensure information is correct and may reach out to Partners to confirm their details.
 
 Any partners who are to be removed will be shared with the Governing Board for review via email. There will be a five business day period where the proposal is open for comments/feedback; if no concerns are raised, the proposal will be considered approved by consensus. If concerns are raised, the proposal may be discussed via email or at an upcoming Governing Board meeting and approved/rejected.
 
