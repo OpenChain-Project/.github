@@ -71,39 +71,4 @@ The general template slides are here: [https://github.com/OpenChain-Project/Refe
 
 ### Chairperson Elections
 
-Note: This process currently applies to these groups, although it is recommended to be adopted by all groups.
-
-* OpenChain Specification Work Group
-* OpenChain Education Work Group
-* OpenChain Telco Work Group
-
-#### The Overall Process:
-
-* The OpenChain Governing Board formally considers who should be appointed as the chairperson for the relevant OpenChain Study or Work Group, and invites the broader OpenChain community to provide their perspective;
-* In this process, the broader OpenChain community will have nominees proposed and voted on to provide a recommendation;
-* That recommendation will be passed to the OpenChain Governing Board for review, approval and ratification at their next meeting.
-
-#### Nomination Methods
-
-The community can nominate in the following manner:
-
-* Members of the relevant@ (example: specification@lists.openchainproject.org) mailing list are entitled to be nominated as chair.
-* Members of main@ are entitled to join relevant@ and take part in the election.
-* You can nominate yourself by sending an email to the relevant@ mailing list.
-* You can nominate someone else by sending an email to the relevant@ mailing list (but please make sure they are ok with it first).
-
-#### Election Process
-
-* The specific process on behalf of the community is to undertake a voting process after a period of nomination;
-* The nomination period is one week;
-* The voting period is one week;
-* If a single candidate stands, they automatically win;
-* If two or more candidates: simple majority wins;
-* Simple majority \= 50%+1 or more, of the votes cast;
-* Run-off will take place if:
-  * If there are more than 2 candidates and no one receives a simple majority, or
-  * There a tie between the top 2 candidates.
-* The run-off will be among the 2 candidates who received the most votes;
-* If the run-off results in another tie, then the Governing Board Chair will cast an additional deciding vote:
-* The relevant work group or study group chair to be confirmed at subsequent board meeting;
-* The Governing Board reserves the right to make any determination they regard as appropriate.
+Chairperson election processes are defined [here]({% link docs/elections.md %}).
